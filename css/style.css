@@ -1,0 +1,75 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500;700;900&display=swap');
+</style>
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+header{
+	background-color: #000;
+	font-family: 'Poppins', sans-serif;
+}
+
+#slides{
+	font-family: 'Poppins', sans-serif;
+	background-image:url("../img/bg-sliders.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 3%;
+	padding-bottom: 2%;
+	color: aliceblue;
+}
+.texto{
+	padding-left: 12%;
+}
+.font-weight-bold{
+	padding-top: 25%;
+}
+#banners{
+	padding-top: 5%;
+	
+}
+#product{
+	align-content: center;
+	padding: 5%;
+	padding-bottom: 2%;
+}
+#product h2{
+	font-size: 25px;
+	font-weight: 100;
+	padding-bottom: 3%;
+}
+#product p{
+	font-size: 15px;
+}
+.chili{
+	align-content: center;
+	text-align: center;
+}
+.btn{
+	margin: 2%;
+	background-color: #FFFFFF;
+	color: #10250A;
+	border-radius: 50px;
+	border-color: #10250A;
+}
+
+
+#clientsfooter h2{
+	font-size: 30px;
+  font-weight: 200;
+	padding-bottom: 3%;
+	text-align: center;
+}
+
+#clientsfooter{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+footer{
+	text-align: center;
+	background-color:  #323232;
+	color: #FFFFFF;
+	padding: 2%;
+}
